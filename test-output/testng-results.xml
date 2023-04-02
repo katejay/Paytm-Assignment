@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-04-02T19:58:57 IST" name="Suite" finished-at="2023-04-02T19:59:16 IST" duration-ms="18822">
+    <groups>
+    </groups>
+    <test started-at="2023-04-02T19:58:57 IST" name="Test" finished-at="2023-04-02T19:59:16 IST" duration-ms="18822">
+      <class name="paytm.assignment.AscListTest">
+        <test-method is-config="true" signature="initialize()[pri:0, instance:paytm.assignment.AscListTest@14cd1699]" started-at="2023-04-02T19:58:57 IST" name="initialize" finished-at="2023-04-02T19:58:59 IST" duration-ms="2323" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initialize -->
+        <test-method signature="getAscData()[pri:0, instance:paytm.assignment.AscListTest@14cd1699]" started-at="2023-04-02T19:59:01 IST" name="getAscData" finished-at="2023-04-02T19:59:08 IST" duration-ms="7484" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getAscData -->
+        <test-method is-config="true" signature="shutdown()[pri:0, instance:paytm.assignment.AscListTest@14cd1699]" started-at="2023-04-02T19:59:16 IST" name="shutdown" finished-at="2023-04-02T19:59:16 IST" duration-ms="93" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- shutdown -->
+      </class> <!-- paytm.assignment.AscListTest -->
+      <class name="paytm.assignment.DescListTest">
+        <test-method is-config="true" signature="initialize()[pri:0, instance:paytm.assignment.DescListTest@3e694b3f]" started-at="2023-04-02T19:58:59 IST" name="initialize" finished-at="2023-04-02T19:59:00 IST" duration-ms="1016" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initialize -->
+        <test-method signature="getAscData()[pri:0, instance:paytm.assignment.DescListTest@3e694b3f]" started-at="2023-04-02T19:59:08 IST" name="getAscData" finished-at="2023-04-02T19:59:16 IST" duration-ms="7615" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getAscData -->
+        <test-method is-config="true" signature="shutdown()[pri:0, instance:paytm.assignment.DescListTest@3e694b3f]" started-at="2023-04-02T19:59:16 IST" name="shutdown" finished-at="2023-04-02T19:59:16 IST" duration-ms="238" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- shutdown -->
+      </class> <!-- paytm.assignment.DescListTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
